@@ -1,0 +1,1 @@
+A class to send votes for the minecraft plugin votifier. A good demonstration of encryption and networking code.
